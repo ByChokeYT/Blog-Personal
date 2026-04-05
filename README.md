@@ -2,6 +2,8 @@
 
 LogicLog es una plataforma de análisis crítico y divulgación técnica dedicada a la ingeniería de software con rigor analítico. Desde **Oruro, Bolivia**, este blog explora las lagunas lógicas, condiciones de carrera y fallos de arquitectura en sistemas complejos.
 
+![LogicLog Demo](./public/logiclog_demo.webp)
+
 > [!TIP]
 > **Pre-visualización Visual**: Para una galería completa de capturas de pantalla del sistema operativo, por favor consulta el archivo [walkthrough.md](file:///C:/Users/Virtual%20System/.gemini/antigravity/brain/6865b0c4-6d9f-4429-bcca-1920393404e5/walkthrough.md) generado en los artefactos.
 
